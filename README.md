@@ -214,7 +214,7 @@ pip install -r requirements.txt
 
 ### 환경 변수 설정 (.env)
 
-본 프로젝트는 외부 API를 사용하므로 '.env' 파일이 필요합니다.
+본 프로젝트는 외부 API를 사용하므로 '.env' 파일이 필요합니다.  
 루트 디렉토리에 '.env' 파일을 생성하고 '.env.example'을 참고하여 API key값을 입력해주세요.
 
 ### 전체 파이프라인 실행
@@ -229,32 +229,32 @@ python main.py
 
 ## 프로젝트 구조
 
-├── data/  
-│ ├── raw/  
-│ ├── processed/ 
-│ └── cache/  
-│  
-├── src/  
-│ ├── data/
-│ ├── features/
-│ ├── models/
-│ ├── evaluation/
-│ ├── visualization/  
-│ └── utils/  
-│  
-├── images/   
-|  
-├── dashboard/  
-│  
-├── .gitignore  
-│  
-├── .env  
-│  
-├── main.py  
-│  
-├── requirements.txt  
-│  
-└── README.md  
+├── data/    
+│ ├── raw/    
+│ ├── processed/   
+│ └── cache/    
+│    
+├── src/    
+│ ├── data/  
+│ ├── features/  
+│ ├── models/  
+│ ├── evaluation/  
+│ ├── visualization/    
+│ └── utils/    
+│    
+├── images/     
+|    
+├── dashboard/    
+│    
+├── .gitignore    
+│    
+├── .env    
+│    
+├── main.py    
+│    
+├── requirements.txt    
+│    
+└── README.md    
 
 ---
 

@@ -1,0 +1,23 @@
+# 데이터 로드 및 전처리 (DataFrame, CSV)
+pandas
+
+# 수치 계산 및 배열 연산
+numpy
+
+# 머신러닝 모델링 및 성능 평가
+scikit-learn
+
+# 지도 시각화
+plotly
+
+# 외부 API 호출 (카카오, 공공데이터)
+requests
+
+# 웹 크롤링 HTML 파싱 (이마트 점포 정보 수집)
+beautifulsoup4
+
+# API 키 불러오기 (.env 파일)
+python_dotenv
+
+# 엑셀 파일 읽기
+openpyxl
